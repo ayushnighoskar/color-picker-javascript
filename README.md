@@ -10,7 +10,6 @@ The Color Picker Chrome Extension is a simple yet useful tool for anyone who wor
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
 
-
 ## Features-
 
 - A color picker tool that allows users to select any color they want
