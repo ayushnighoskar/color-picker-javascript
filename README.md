@@ -3,6 +3,7 @@
 The Color Picker Chrome Extension is a simple yet useful tool for anyone who works with colors on a regular basis.It is a web-based project that allows users to easily pick colors from any web page. It is built using HTML, CSS, and JavaScript, and its independence from external APIs ensures that it is reliable and easy to use.The extension consists of a popup window that opens when the user clicks on the extension icon. The popup contains a color picker tool that allows the user to select any color they want. The selected color is then displayed in a preview box as hex code for that color.
 
 
+
 ## Tech-Stack-
 
 <div align="left">
